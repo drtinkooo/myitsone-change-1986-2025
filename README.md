@@ -386,8 +386,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Tin Ko Oo**
 - Institution: Mahidol University, Thailand
-- Email: [your.email@mahidol.edu]
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: tin.koo@mahidol.ac.th
+- GitHub: @drtinkooo
 
 ## 🔗 Additional Resources
 
